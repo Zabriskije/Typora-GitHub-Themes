@@ -50,11 +50,6 @@ hr {
     background-color:  #7a828e !important;
 }
 
-#write ol>li, #write ul>li {
-    font-size:  1.2rem !important;
-    font-weight: normal !important;
-}
-
 .ty-preferences button.btn-default {
     background-color:  var(--item-hover-bg-color) !important;
 }
