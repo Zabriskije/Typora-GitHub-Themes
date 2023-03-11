@@ -1,6 +1,10 @@
-# GitHub Dark Themes for Typora
+<h1 align="center">GitHub Dark Themes for Typora</h1>
 
-Hi folks! This repository contains Typora themes that are based on GitHub Dark Default, Dark Dimmed, and Dark High-Contrast. These themes were initially created by [Kinoute](https://github.com/kinoute/typora-github-night-theme), but have since been enhanced to provide a more authentic GitHub experience. For example, the themes now use `system-ui` as the main font instead of Nunito, and `ui-monospace` for code (as GitHub do).
+<p align="center">Typora themes based on GitHub Dark Default, Dark Dimmed, and Dark High-Contrast</p>
+
+<br>
+
+These themes were initially created by [Kinoute](https://github.com/kinoute/typora-github-night-theme), but have since been enhanced to provide a more authentic GitHub experience. For example, the themes now use `system-ui` as the main font instead of Nunito, and `ui-monospace` for code (as GitHub do).
 
 In addition, several other improvements have been made to the themes, such as enhanced code block border-radius, colors, list spacing, text line height, font weight, and checkboxes, among other enhancements.
 
