@@ -12,7 +12,7 @@ These themes were initially created by [Kinoute](https://github.com/kinoute/typo
 
 ## Installation
 
-1. Download the chosen theme(s) or the [last release](https://github.com/Zabriskije/Typora-GitHub-Themes/releases/latest)
+1. Download the chosen theme(s) or the [last release](https://github.com/Zabriskije/Typora-GitHub-Themes/archive/master.zip)
 1. Launch Typora and go to `Settings...` → `Appereance` → `Open Theme Folder`
 1. Copy the selected files to the `themes` folder and restart Typora
 1. Click on `Themes` from the Mac Menu Bar
