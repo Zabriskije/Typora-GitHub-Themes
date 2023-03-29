@@ -564,14 +564,14 @@ blockquote .md-end-block.md-heading:before {
 }
 
 blockquote {
-	margin: 0 0 1.11111rem;
-	padding: .5rem 1.11111rem 0 1.05556rem;
+	margin: 0 0 1rem;
+	padding: 0 1rem;
 	border-left: .25rem solid #3b434b;
 }
 
 blockquote,
 blockquote p {
-	line-height: 1.8;
+	line-height: 1.5;
 	color: #8b949e;
 }
 

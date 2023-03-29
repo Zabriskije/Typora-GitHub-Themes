@@ -29,7 +29,16 @@
 	--mermaid-node-border: #bd7958;
 	--mermaid-contrast-color: #afe61d;
 	--mermaid-theme: dark;
-	--monospace: ui-monospace;
+	--monospace: ui-monospace,
+		Menlo, Monaco,
+		"Cascadia Mono", "Segoe UI Mono",
+		"Roboto Mono",
+		"Oxygen Mono",
+		"Ubuntu Monospace",
+		"Source Code Pro",
+		"Fira Mono",
+		"Droid Sans Mono",
+		"Courier New", monospace;
 }
 
 code {
@@ -37,9 +46,7 @@ code {
 }
 
 blockquote {
-	border-left-width: 4px !important;
-	border-left: .25em solid #444c56 !important;
-	padding: 0 1em;
+	border-left: .25rem solid #444c56 !important;
 }
 
 blockquote p {
